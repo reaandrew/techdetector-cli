@@ -1,0 +1,136 @@
+# sql_queries.yaml
+
+queries:
+  - name: "Type Findings"
+    query: |
+      SELECT DISTINCT RepoName,Type, COUNT(*) as count
+      FROM Findings
+      GROUP BY RepoName,Type;
+  - name: "Cloud Service SDKs Used"
+    query: |
+      SELECT DISTINCT RepoName,Name
+        FROM Findings
+        WHERE Type = "Cloud Service SDK";
+  - name: "Applications"
+    query: |
+      SELECT DISTINCT RepoName,Name
+        FROM Findings
+        WHERE Type = "Application";
+  - name: "Docker Ports Detected"
+    query: |
+      SELECT DISTINCT  RepoName,json_extract(Properties, '$.arguments') AS Port
+      FROM Findings
+      WHERE Type = 'Docker Directive' AND Name = 'EXPOSE'
+      ORDER BY Port;
+  - name: "Docker Images Detected"
+    query: |
+      SELECT DISTINCT
+          RepoName,
+          json_extract(Properties, '$.image') AS Image,
+          json_extract(Properties, '$.version') AS Version
+      FROM Findings
+      WHERE Type = 'Docker Directive'
+        AND json_extract(Properties, '$.image') IS NOT NULL;
+  - name: "Libs and Versions Detected"
+    query: |
+      SELECT 
+        RepoName,
+        Name,
+        json_extract(Properties, '$.Language') AS Language,
+        GROUP_CONCAT(DISTINCT json_extract(Properties, '$.Version')) AS Versions
+      FROM Findings
+      WHERE Type = 'Library'
+      GROUP BY RepoName, Name, Language
+      ORDER BY Name;
+  - name: "Frameworks Detected"
+    query: |
+      SELECT DISTINCT 
+        RepoName,
+        Name,
+        Category
+      FROM Findings
+      WHERE Type = 'Framework'
+      ORDER BY RepoName,Name;
+  - name: "Git Stats"
+    query: |
+      SELECT
+      RepoName,
+      Name,
+      MAX(
+        CAST(
+          COALESCE(
+            json_extract(Properties, '$.value'),
+            json_extract(Properties, '$.size'),
+            json_extract(Properties, '$.commits_touched'),
+            json_extract(Properties, '$.churn'),
+            json_extract(Properties, '$.contributors'),
+            json_extract(Properties, '$.max_lines_added')
+          ) AS INTEGER
+        )
+      ) AS Metric
+      FROM Findings
+      WHERE Type = 'git_metric'
+      GROUP BY RepoName,Name
+      ORDER BY RepoName,Name;
+  - name: "Terraform Resources Detected"
+    query: |
+      SELECT
+        RepoName,
+        json_extract(Properties, '$.resource_type') AS resource_type,
+        COUNT(*) AS count
+      FROM Findings
+      WHERE Type = "Terraform Resource Use"
+      GROUP BY RepoName,resource_type;
+  - name: "Azure Resources Detected"
+    query: |
+      SELECT
+          RepoName,
+          json_extract(Properties, '$.resource') AS resource_type,
+          COUNT(*) AS count
+      FROM Findings
+      WHERE Type = "Azure Bicep"
+      GROUP BY RepoName,resource_type;
+  - name: "Cloud Formation Detected"
+    query: |
+      SELECT
+          RepoName,
+          Name,
+          COUNT(*) AS count
+      FROM Findings
+      WHERE Type = "CloudFormation Resource"
+      GROUP BY RepoName, Name;
+  - name: "MS Office Files"
+    query: |
+      select RepoName,Type, Category, Count(*) AS Count
+      from Findings
+      where Type = "MS Office"
+      group by RepoName,Type, Category;
+  - name: "Language Detection"
+    query: |
+      select RepoName,Name, Count(*) AS Count
+      from Findings
+      where Type = "Programming Language"
+      group by RepoName,Name;
+  - name: "File Count"
+    query: |
+      select RepoName,count(*) as FileCount
+      from Findings
+      where Type = "File";
+  - name: "SAAS Integrations"
+    query: |
+      select RepoName, Name, Count(*) as Count from Findings
+      where Type = "SAAS Integration"
+      Group by RepoName, Name;
+  - name: "Vulnerability Scan Findings"
+    query: |
+      SELECT 
+        RepoName,
+        Name,
+        json_extract(Properties, '$.title') AS Title,
+        json_extract(Properties, '$.severity') AS Severity,
+        json_extract(Properties, '$.installed_version') AS InstalledVersion,
+        json_extract(Properties, '$.pkg_name') AS PkgName,
+        json_extract(Properties, '$.target') AS Target,
+        json_extract(Properties, '$.result_type') AS ResultType
+      FROM Findings
+      WHERE Type = 'VULNERABILITY_SCAN';
