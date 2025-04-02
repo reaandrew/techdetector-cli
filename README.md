@@ -1,0 +1,1 @@
+# techdetector-cli
