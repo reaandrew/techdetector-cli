@@ -9,6 +9,11 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 )
 
+replace (
+	github.com/reaandrew/techdetector v0.12.1 => ../techdetector
+
+)
+
 require (
 	dario.cat/mergo v1.0.1 // indirect
 	github.com/BurntSushi/toml v1.5.0 // indirect

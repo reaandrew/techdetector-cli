@@ -1,0 +1,3350 @@
+{
+  "File Count": [
+    {
+      "FileCount": 6018,
+      "RepoName": "tesla/site-m2eclipse"
+    }
+  ],
+  "Frameworks Detected": [
+    {
+      "Category": "Build Automation",
+      "Name": "Maven",
+      "RepoName": "tesla/feature-zip-plugin"
+    },
+    {
+      "Category": "Testing",
+      "Name": "JUnit",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Category": "Logging",
+      "Name": "Log4j",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Category": "Build Automation",
+      "Name": "Maven",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Category": "Dependency Management",
+      "Name": "Maven",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Category": "Testing",
+      "Name": "TestNG",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Category": "Testing",
+      "Name": "JUnit",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Category": "Dependency Management",
+      "Name": "Maven",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Category": "Testing",
+      "Name": "JUnit",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Category": "Testing",
+      "Name": "JUnit",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Category": "Testing",
+      "Name": "JUnit",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Category": "Logging",
+      "Name": "SLF4J",
+      "RepoName": "tesla/tesla-aether"
+    }
+  ],
+  "Git Stats": [
+    {
+      "Metric": 11,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Metric": 17,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Metric": 17,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Metric": 0,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Metric": 2,
+      "Name": "Branch Count",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Metric": 2012,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Metric": 2012,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Metric": 13,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Metric": 26,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Metric": 26,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Metric": 0,
+      "Name": "Tag Count",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Metric": 34,
+      "Name": "Total Commits",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Metric": 2,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Metric": 4,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/feature-zip-plugin"
+    },
+    {
+      "Metric": 4,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/feature-zip-plugin"
+    },
+    {
+      "Metric": 4,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/feature-zip-plugin"
+    },
+    {
+      "Metric": 0,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/feature-zip-plugin"
+    },
+    {
+      "Metric": 2,
+      "Name": "Branch Count",
+      "RepoName": "tesla/feature-zip-plugin"
+    },
+    {
+      "Metric": 2012,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/feature-zip-plugin"
+    },
+    {
+      "Metric": 2012,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/feature-zip-plugin"
+    },
+    {
+      "Metric": 4,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/feature-zip-plugin"
+    },
+    {
+      "Metric": 4,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/feature-zip-plugin"
+    },
+    {
+      "Metric": 4,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/feature-zip-plugin"
+    },
+    {
+      "Metric": 1,
+      "Name": "Tag Count",
+      "RepoName": "tesla/feature-zip-plugin"
+    },
+    {
+      "Metric": 4,
+      "Name": "Total Commits",
+      "RepoName": "tesla/feature-zip-plugin"
+    },
+    {
+      "Metric": 1,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/feature-zip-plugin"
+    },
+    {
+      "Metric": 3,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Metric": 20,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Metric": 8,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Metric": 92,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Metric": 3,
+      "Name": "Branch Count",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Metric": 2008,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Metric": 2025,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Metric": 35,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Metric": 291,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Metric": 100,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Metric": 18,
+      "Name": "Tag Count",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Metric": 3281,
+      "Name": "Total Commits",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Metric": 79,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Metric": 4,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Metric": 3,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Metric": 0,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Metric": 2,
+      "Name": "Branch Count",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Metric": 2010,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Metric": 2012,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Metric": 7,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Metric": 14,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Metric": 9,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Metric": 0,
+      "Name": "Tag Count",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Metric": 45,
+      "Name": "Total Commits",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Metric": 8,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Metric": 3,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Metric": 3,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Metric": 0,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Metric": 2,
+      "Name": "Branch Count",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Metric": 2012,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Metric": 2014,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Metric": 4,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Metric": 6,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Metric": 6,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Metric": 1,
+      "Name": "Tag Count",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Metric": 10,
+      "Name": "Total Commits",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Metric": 3,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Metric": 3,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Metric": 3,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Metric": 0,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Metric": 2,
+      "Name": "Branch Count",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Metric": 2012,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Metric": 2023,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Metric": 4,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Metric": 4,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Metric": 4,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Metric": 1,
+      "Name": "Tag Count",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Metric": 12,
+      "Name": "Total Commits",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Metric": 4,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Metric": 3,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Metric": 96,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Metric": 2,
+      "Name": "Branch Count",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Metric": 2008,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Metric": 2013,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Metric": 7,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Metric": 10,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Metric": 9,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Metric": 2,
+      "Name": "Tag Count",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Metric": 67,
+      "Name": "Total Commits",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Metric": 17,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Metric": 3,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Metric": 2054,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Metric": 3,
+      "Name": "Branch Count",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Metric": 2011,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Metric": 2022,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Metric": 8,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Metric": 12,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Metric": 12,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Metric": 3,
+      "Name": "Tag Count",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Metric": 77,
+      "Name": "Total Commits",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Metric": 12,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Metric": 5,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Metric": 4,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Metric": 0,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Metric": 2,
+      "Name": "Branch Count",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Metric": 2011,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Metric": 2012,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Metric": 7,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Metric": 11,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Metric": 11,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Metric": 1,
+      "Name": "Tag Count",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Metric": 21,
+      "Name": "Total Commits",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Metric": 4,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Metric": 3,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Metric": 0,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Metric": 5,
+      "Name": "Branch Count",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Metric": 2012,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Metric": 2020,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Metric": 6,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Metric": 12,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Metric": 6,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Metric": 0,
+      "Name": "Tag Count",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Metric": 57,
+      "Name": "Total Commits",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Metric": 8,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Metric": 0,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Metric": 2,
+      "Name": "Branch Count",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Metric": 2012,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Metric": 2022,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Metric": 3,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Metric": 4,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Metric": 4,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Metric": 1,
+      "Name": "Tag Count",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Metric": 20,
+      "Name": "Total Commits",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Metric": 5,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Metric": 0,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Metric": 2,
+      "Name": "Branch Count",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Metric": 2012,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Metric": 2016,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Metric": 3,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Metric": 4,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Metric": 4,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Metric": 0,
+      "Name": "Tag Count",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Metric": 14,
+      "Name": "Total Commits",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Metric": 5,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Metric": 0,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Metric": 2,
+      "Name": "Branch Count",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Metric": 2012,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Metric": 2016,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Metric": 2,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Metric": 3,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Metric": 3,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Metric": 0,
+      "Name": "Tag Count",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Metric": 10,
+      "Name": "Total Commits",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Metric": 4,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Metric": 0,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Metric": 2,
+      "Name": "Branch Count",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Metric": 2010,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Metric": 2013,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Metric": 3,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Metric": 7,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Metric": 7,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Metric": 0,
+      "Name": "Tag Count",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Metric": 36,
+      "Name": "Total Commits",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Metric": 12,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Metric": 0,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Metric": 2,
+      "Name": "Branch Count",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Metric": 2012,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Metric": 2012,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Metric": 1,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Metric": 1,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Metric": 1,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Metric": 0,
+      "Name": "Tag Count",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Metric": 1,
+      "Name": "Total Commits",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Metric": 1,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Metric": 4,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Metric": 1129,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Metric": 4,
+      "Name": "Branch Count",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Metric": 2009,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Metric": 2022,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Metric": 7,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Metric": 20,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Metric": 16,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Metric": 5,
+      "Name": "Tag Count",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Metric": 185,
+      "Name": "Total Commits",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Metric": 17,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Metric": 2,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Metric": 4,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Metric": 3,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Metric": 0,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Metric": 2,
+      "Name": "Branch Count",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Metric": 2011,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Metric": 2025,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Metric": 12,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Metric": 18,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Metric": 12,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Metric": 2,
+      "Name": "Tag Count",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Metric": 105,
+      "Name": "Total Commits",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Metric": 15,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/site-m2eclipse"
+    },
+    {
+      "Metric": 3,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/site-m2eclipse"
+    },
+    {
+      "Metric": 3,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/site-m2eclipse"
+    },
+    {
+      "Metric": 0,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/site-m2eclipse"
+    },
+    {
+      "Metric": 2,
+      "Name": "Branch Count",
+      "RepoName": "tesla/site-m2eclipse"
+    },
+    {
+      "Metric": 2012,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/site-m2eclipse"
+    },
+    {
+      "Metric": 2012,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/site-m2eclipse"
+    },
+    {
+      "Metric": 2,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/site-m2eclipse"
+    },
+    {
+      "Metric": 3,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/site-m2eclipse"
+    },
+    {
+      "Metric": 3,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/site-m2eclipse"
+    },
+    {
+      "Metric": 0,
+      "Name": "Tag Count",
+      "RepoName": "tesla/site-m2eclipse"
+    },
+    {
+      "Metric": 3,
+      "Name": "Total Commits",
+      "RepoName": "tesla/site-m2eclipse"
+    },
+    {
+      "Metric": 1,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/site-m2eclipse"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Metric": 3,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Metric": 0,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Metric": 4,
+      "Name": "Branch Count",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Metric": 2013,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Metric": 2022,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Metric": 4,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Metric": 8,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Metric": 4,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Metric": 1,
+      "Name": "Tag Count",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Metric": 15,
+      "Name": "Total Commits",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Metric": 3,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Day",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Month",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Metric": 1,
+      "Name": "Average Commits Per Week",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Metric": 0,
+      "Name": "Average Time Between Tags",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Metric": 2,
+      "Name": "Branch Count",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Metric": 2013,
+      "Name": "First Commit Date",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Metric": 2014,
+      "Name": "Last Commit Date",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Metric": 5,
+      "Name": "Max Commits Per Day",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Metric": 5,
+      "Name": "Max Commits Per Month",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Metric": 5,
+      "Name": "Max Commits Per Week",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Metric": 0,
+      "Name": "Tag Count",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Metric": 9,
+      "Name": "Total Commits",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Metric": 1,
+      "Name": "Unique Contributors",
+      "RepoName": "tesla/tesla-ide"
+    }
+  ],
+  "Language Detection": [
+    {
+      "Count": 2,
+      "Name": "Markdown",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Count": 3,
+      "Name": "Shell",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Count": 2,
+      "Name": "Text",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Count": 1,
+      "Name": "XML",
+      "RepoName": "tesla/book-tycho"
+    },
+    {
+      "Count": 1,
+      "Name": "Java",
+      "RepoName": "tesla/feature-zip-plugin"
+    },
+    {
+      "Count": 1,
+      "Name": "Maven POM",
+      "RepoName": "tesla/feature-zip-plugin"
+    },
+    {
+      "Count": 2,
+      "Name": "Ant Build System",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Count": 1,
+      "Name": "Batchfile",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Count": 2,
+      "Name": "Checksums",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Count": 1,
+      "Name": "HTML",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Count": 98,
+      "Name": "INI",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Count": 4,
+      "Name": "JAR Manifest",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Count": 232,
+      "Name": "Java",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Count": 4,
+      "Name": "Java Properties",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Count": 477,
+      "Name": "Maven POM",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Count": 15,
+      "Name": "Text",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Count": 520,
+      "Name": "XML",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Count": 3,
+      "Name": "AspectJ",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Count": 2,
+      "Name": "HTML",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Count": 22,
+      "Name": "INI",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Count": 2,
+      "Name": "JAR Manifest",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Count": 8,
+      "Name": "Java",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Count": 3,
+      "Name": "Java Properties",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Count": 12,
+      "Name": "Maven POM",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Count": 20,
+      "Name": "XML",
+      "RepoName": "tesla/m2eclipse-ajdt"
+    },
+    {
+      "Count": 2,
+      "Name": "GAP",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Count": 1,
+      "Name": "HTML",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Count": 4,
+      "Name": "INI",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Count": 2,
+      "Name": "JAR Manifest",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Count": 5,
+      "Name": "Java",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Count": 11,
+      "Name": "Java Properties",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Count": 6,
+      "Name": "Maven POM",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Count": 92,
+      "Name": "XML",
+      "RepoName": "tesla/m2eclipse-antlr"
+    },
+    {
+      "Count": 1,
+      "Name": "Batchfile",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Count": 1,
+      "Name": "HTML",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Count": 3,
+      "Name": "INI",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Count": 2,
+      "Name": "JAR Manifest",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Count": 7,
+      "Name": "Java",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Count": 6,
+      "Name": "Java Properties",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Count": 1,
+      "Name": "Markdown",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Count": 7,
+      "Name": "Maven POM",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Count": 1,
+      "Name": "Shell",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Count": 3,
+      "Name": "Text",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Count": 90,
+      "Name": "XML",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Count": 14,
+      "Name": "INI",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Count": 1,
+      "Name": "JAR Manifest",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Count": 10,
+      "Name": "Java",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Count": 1,
+      "Name": "Java Properties",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Count": 3,
+      "Name": "Maven POM",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Count": 8,
+      "Name": "XML",
+      "RepoName": "tesla/m2eclipse-cvs"
+    },
+    {
+      "Count": 1,
+      "Name": "Batchfile",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Count": 1,
+      "Name": "HTML",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Count": 1,
+      "Name": "INI",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Count": 2,
+      "Name": "JAR Manifest",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Count": 9,
+      "Name": "Java",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Count": 5,
+      "Name": "Java Properties",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Count": 1,
+      "Name": "Markdown",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Count": 5,
+      "Name": "Maven POM",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Count": 1,
+      "Name": "Shell",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Count": 1,
+      "Name": "Text",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Count": 12,
+      "Name": "XML",
+      "RepoName": "tesla/m2eclipse-egit"
+    },
+    {
+      "Count": 1,
+      "Name": "HTML",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Count": 4,
+      "Name": "INI",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Count": 1,
+      "Name": "JAR Manifest",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Count": 49,
+      "Name": "Java",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Count": 2,
+      "Name": "Java Properties",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Count": 4,
+      "Name": "Maven POM",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Count": 1,
+      "Name": "Text",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Count": 6,
+      "Name": "XML",
+      "RepoName": "tesla/m2eclipse-hudson"
+    },
+    {
+      "Count": 1,
+      "Name": "Batchfile",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Count": 331,
+      "Name": "Checksums",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Count": 4,
+      "Name": "INI",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Count": 4,
+      "Name": "JAR Manifest",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Count": 5,
+      "Name": "Java",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Count": 1,
+      "Name": "Java Properties",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Count": 16,
+      "Name": "Maven POM",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Count": 1,
+      "Name": "Shell",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Count": 184,
+      "Name": "XML",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Count": 1,
+      "Name": "YAML",
+      "RepoName": "tesla/m2eclipse-mavenarchiver"
+    },
+    {
+      "Count": 1,
+      "Name": "Batchfile",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Count": 1,
+      "Name": "HTML",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Count": 3,
+      "Name": "INI",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Count": 2,
+      "Name": "JAR Manifest",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Count": 9,
+      "Name": "Java",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Count": 2,
+      "Name": "Java Properties",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Count": 1,
+      "Name": "Markdown",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Count": 8,
+      "Name": "Maven POM",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Count": 1,
+      "Name": "Shell",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Count": 83,
+      "Name": "XML",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Count": 1,
+      "Name": "YAML",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Count": 1,
+      "Name": "HTML",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Count": 3,
+      "Name": "INI",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Count": 2,
+      "Name": "JAR Manifest",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Count": 38,
+      "Name": "Java",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Count": 1,
+      "Name": "Java Properties",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Count": 19,
+      "Name": "Maven POM",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Count": 68,
+      "Name": "XML",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Count": 1,
+      "Name": "YAML",
+      "RepoName": "tesla/m2eclipse-plexus"
+    },
+    {
+      "Count": 1,
+      "Name": "HTML",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Count": 2,
+      "Name": "INI",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Count": 1,
+      "Name": "JAR Manifest",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Count": 1,
+      "Name": "Java",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Count": 1,
+      "Name": "Java Properties",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Count": 4,
+      "Name": "Maven POM",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Count": 4,
+      "Name": "XML",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Count": 1,
+      "Name": "YAML",
+      "RepoName": "tesla/m2eclipse-sisu"
+    },
+    {
+      "Count": 2,
+      "Name": "INI",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Count": 1,
+      "Name": "JAR Manifest",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Count": 5,
+      "Name": "Java",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Count": 1,
+      "Name": "Java Properties",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Count": 1,
+      "Name": "Markdown",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Count": 3,
+      "Name": "Maven POM",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Count": 4,
+      "Name": "XML",
+      "RepoName": "tesla/m2eclipse-subclipse"
+    },
+    {
+      "Count": 1,
+      "Name": "HTML",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Count": 2,
+      "Name": "INI",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Count": 1,
+      "Name": "JAR Manifest",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Count": 2,
+      "Name": "Java",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Count": 1,
+      "Name": "Java Properties",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Count": 3,
+      "Name": "Maven POM",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Count": 2,
+      "Name": "XML",
+      "RepoName": "tesla/m2eclipse-tests"
+    },
+    {
+      "Count": 1,
+      "Name": "Batchfile",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Count": 1,
+      "Name": "HTML",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Count": 6,
+      "Name": "INI",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Count": 7,
+      "Name": "JAR Manifest",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Count": 24,
+      "Name": "Java",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Count": 2,
+      "Name": "Java Properties",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Count": 1,
+      "Name": "Markdown",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Count": 24,
+      "Name": "Maven POM",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Count": 2,
+      "Name": "Shell",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Count": 219,
+      "Name": "XML",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Count": 1,
+      "Name": "YAML",
+      "RepoName": "tesla/m2eclipse-tycho"
+    },
+    {
+      "Count": 2,
+      "Name": "HTML",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Count": 12,
+      "Name": "INI",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Count": 2,
+      "Name": "JAR Manifest",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Count": 50,
+      "Name": "Java",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Count": 1,
+      "Name": "Java Properties",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Count": 1,
+      "Name": "Markdown",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Count": 1,
+      "Name": "Maven POM",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Count": 10,
+      "Name": "XML",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Count": 8,
+      "Name": "Markdown",
+      "RepoName": "tesla/site-m2eclipse"
+    },
+    {
+      "Count": 1122,
+      "Name": "Checksums",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Count": 21,
+      "Name": "Java",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Count": 1,
+      "Name": "Maven POM",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Count": 34,
+      "Name": "Public Key",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Count": 1,
+      "Name": "Text",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Count": 189,
+      "Name": "XML",
+      "RepoName": "tesla/tesla-aether"
+    },
+    {
+      "Count": 4,
+      "Name": "CSS",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Count": 3,
+      "Name": "HTML",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Count": 7,
+      "Name": "INI",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Count": 1,
+      "Name": "JAR Manifest",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Count": 3,
+      "Name": "Java Properties",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Count": 2,
+      "Name": "Markdown",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Count": 3,
+      "Name": "Maven POM",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Count": 7,
+      "Name": "Mustache",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Count": 1,
+      "Name": "Ruby",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Count": 9,
+      "Name": "XML",
+      "RepoName": "tesla/tesla-ide"
+    },
+    {
+      "Count": 1,
+      "Name": "YAML",
+      "RepoName": "tesla/tesla-ide"
+    }
+  ],
+  "Libs and Versions Detected": [
+    {
+      "Language": "Java",
+      "Name": "416882_dependencyTree:direct-depA",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "416882_dependencyTree:direct-depB",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "475481_binaryTypeHint:binary",
+      "RepoName": "tesla/m2eclipse-plexus",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "a:a",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0-20120831.185302-1"
+    },
+    {
+      "Language": "Java",
+      "Name": "another-missing:another-missing",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "antlr:antlr",
+      "RepoName": "tesla/m2eclipse-antlr",
+      "Versions": "2.7.7"
+    },
+    {
+      "Language": "Java",
+      "Name": "aspectj:aspectjrt",
+      "RepoName": "tesla/m2eclipse-ajdt",
+      "Versions": "1.5.4,1.5.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "biz.aQute.bnd:annotation",
+      "RepoName": "tesla/m2eclipse-tycho",
+      "Versions": "2.3.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "changedscope:p01",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "classifiers:classifiers-p2",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "com.google.guava:guava",
+      "RepoName": "tesla/tesla-aether",
+      "Versions": ""
+    },
+    {
+      "Language": "Java",
+      "Name": "commons-beanutils:commons-beanutils",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.9.4"
+    },
+    {
+      "Language": "Java",
+      "Name": "commons-cli:commons-cli",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "commons-digester:commons-digester",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.6"
+    },
+    {
+      "Language": "Java",
+      "Name": "commons-io:commons-io",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "2.17.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "commons-lang:commons-lang",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "commons-logging:commons-logging",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0.2"
+    },
+    {
+      "Language": "Java",
+      "Name": "de.pdark:decentxml",
+      "RepoName": "tesla/m2eclipse-tycho",
+      "Versions": "1.3"
+    },
+    {
+      "Language": "Java",
+      "Name": "downloadsources:downloadsources-t001",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "downloadsources:downloadsources-t002",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "downloadsources:downloadsources-t003",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "downloadsources:downloadsources-t004",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "downloadsources:downloadsources-t005",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "downloadsources:downloadsources-t006",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "downloadsources:downloadsources-t007",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "downloadsources:downloadsources-t008",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "downloadsources:downloadsources-t009",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "duplicateclasspath:duplicateclasspath-p2",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "easymock:easymock",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "interproject:aspect",
+      "RepoName": "tesla/m2eclipse-ajdt",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "interproject:depi",
+      "RepoName": "tesla/m2eclipse-ajdt",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "io.tesla.aether:aether-connector-okhttp",
+      "RepoName": "tesla/tesla-aether",
+      "Versions": "${okHttpConnectorVersion}"
+    },
+    {
+      "Language": "Java",
+      "Name": "jdkprofileactivation:p002",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "junit:junit",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "4.13.1,,4.13.2,3.8.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "junit:junit",
+      "RepoName": "tesla/m2eclipse-ajdt",
+      "Versions": "3.8"
+    },
+    {
+      "Language": "Java",
+      "Name": "junit:junit",
+      "RepoName": "tesla/m2eclipse-buildhelper",
+      "Versions": "3.8.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "junit:junit",
+      "RepoName": "tesla/m2eclipse-mavenarchiver",
+      "Versions": "3.8.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "junit:junit",
+      "RepoName": "tesla/tesla-aether",
+      "Versions": "4.11"
+    },
+    {
+      "Language": "Java",
+      "Name": "missing:missing",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": ",1-SNAPSHOT,0.0.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "missing:missing-child",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "missing:missing-parent1",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "missing:missing-parent2",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "mngeclipse1996:snapshot",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "mngeclipse581:system",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "optionaldependency:p01",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.antlr:antlr",
+      "RepoName": "tesla/m2eclipse-antlr",
+      "Versions": "3.1.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.apache.logging.log4j:log4j-core",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "2.17.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.apache.maven.plugin-tools:maven-plugin-annotations",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "${mavenPluginPlugin-version},3.2"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.apache.maven:maven-aether-provider",
+      "RepoName": "tesla/tesla-aether",
+      "Versions": "${mavenVersion}"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.apache.maven:maven-core",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "${maven-version}"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.apache.maven:maven-core",
+      "RepoName": "tesla/m2eclipse-ajdt",
+      "Versions": "3.0-beta-1"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.apache.maven:maven-model",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "${maven-version}"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.apache.maven:maven-plugin-api",
+      "RepoName": "tesla/feature-zip-plugin",
+      "Versions": "3.0.3"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.apache.maven:maven-plugin-api",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "2.0,2.1-SNAPSHOT,${maven-version},2.2.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.apache.maven:maven-project",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "2.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.apache.maven:maven-settings",
+      "RepoName": "tesla/tesla-aether",
+      "Versions": "${mavenVersion}"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.apache.maven:maven-settings-builder",
+      "RepoName": "tesla/tesla-aether",
+      "Versions": "${mavenVersion}"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.codehaus.plexus:plexus-component-annotations",
+      "RepoName": "tesla/m2eclipse-plexus",
+      "Versions": "${plexus.version}"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.codehaus.plexus:plexus-utils",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "3.0.24"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.aether:aether-api",
+      "RepoName": "tesla/tesla-aether",
+      "Versions": "${aetherVersion}"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.aether:aether-connector-file",
+      "RepoName": "tesla/tesla-aether",
+      "Versions": "${aetherVersion}"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.aether:aether-impl",
+      "RepoName": "tesla/tesla-aether",
+      "Versions": "${aetherVersion}"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.aether:aether-spi",
+      "RepoName": "tesla/tesla-aether",
+      "Versions": "${aetherVersion}"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.aether:aether-util",
+      "RepoName": "tesla/tesla-aether",
+      "Versions": "${aetherVersion}"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.m2e.its.mngeclipse-2126:dep",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.m2e.its.mngeclipse-2149:dep",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.m2e.projects:MNGECLIPSE-248parent",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.m2e.projects:projectA",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.m2e.test.mngeclipse-369:cptest2",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.m2e.test.mngeclipse-369:testlib",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "2.0,1.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.m2e.test.registrymanager.t005:t005-p2",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.m2e.test.registrymanager.t005:t005-p4",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.m2e.test.registrymanager.t021_dependencyVersionRange:t021-p2",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "[0.0.1,0.0.2-SNAPSHOT]"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.m2e.test:bad-checksum",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.m2e.test:jar-dependencies",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.m2e.test:runtime-jar-dependencies",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.m2e.test:test-jar",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.m2e:project-with-shared-runtime-code",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.m2e:project-with-shared-test-code",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.mylyn.tasks:core",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "2.0.0-v20070627-1400"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.sisu:org.eclipse.sisu.inject",
+      "RepoName": "tesla/tesla-aether",
+      "Versions": "0.0.0.M5"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.eclipse.sisu:org.eclipse.sisu.inject.tests",
+      "RepoName": "tesla/tesla-aether",
+      "Versions": "0.0.0.M3"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.junit.jupiter:junit-jupiter",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "5.4.2"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.junit.jupiter:junit-jupiter-api",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "5.4.2"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.junit.jupiter:junit-jupiter-engine",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "5.4.2"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.junit.platform:junit-platform-launcher",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.4.2"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.jvnet.hudson.main:hudson-rest-client",
+      "RepoName": "tesla/m2eclipse-hudson",
+      "Versions": "2.1.2"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.jvnet.hudson.main:hudson-utils",
+      "RepoName": "tesla/m2eclipse-hudson",
+      "Versions": "2.1.2"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.slf4j:slf4j-api",
+      "RepoName": "tesla/tesla-aether",
+      "Versions": ""
+    },
+    {
+      "Language": "Java",
+      "Name": "org.slf4j:slf4j-simple",
+      "RepoName": "tesla/tesla-aether",
+      "Versions": "1.7.2"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.sonatype.m2e.hudson:org.sonatype.m2e.hudson.restclient",
+      "RepoName": "tesla/m2eclipse-hudson",
+      "Versions": "${project.version}"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.sonatype.m2e.mavenarchiver.tests:mavenarchiver-p001",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.sonatype.m2e.mavenarchiver.tests:mavenarchiver-p001",
+      "RepoName": "tesla/m2eclipse-mavenarchiver",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.sonatype.m2e.plexus.annotations.tests:plexus-annotations-p002",
+      "RepoName": "tesla/m2eclipse-plexus",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.sonatype.plexus:plexus-build-api",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.4,0.0.7"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.sonatype.sisu:sisu-inject-bean",
+      "RepoName": "tesla/m2eclipse-hudson",
+      "Versions": "2.2.3"
+    },
+    {
+      "Language": "Java",
+      "Name": "org.testng:testng",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "7.7.1"
+    },
+    {
+      "Language": "Java",
+      "Name": "p2:p2",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "propertiesGrDep:propertiesArDep",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "${my_prop1}"
+    },
+    {
+      "Language": "Java",
+      "Name": "runtimeclasspath:testscope01",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "t001:t001-p2",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "t007:t007-p2",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "t009:t009-p2",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "t009:t009-p3",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "t017:t017-p4",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "${test.version}"
+    },
+    {
+      "Language": "Java",
+      "Name": "test:435692-p1",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0,1.1,2.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "test:436929-p1",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": ""
+    },
+    {
+      "Language": "Java",
+      "Name": "test:ClientWeb",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "test:OrderEJB",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "test:PosConfigJar",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "test:PosConfigWeb",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "test:PosGatewayJavaEE5EJB",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "test:PosGatewayWeb",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "test:WarehouseEJB",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "test:WarehouseWeb",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "test:a",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "test:b",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0"
+    },
+    {
+      "Language": "Java",
+      "Name": "test:dependency",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "0.0.1-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "updateTest:b",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "1.0-SNAPSHOT"
+    },
+    {
+      "Language": "Java",
+      "Name": "versionrange:p002",
+      "RepoName": "tesla/m2e-core-tests",
+      "Versions": "[0.0.1,0.0.3]"
+    }
+  ],
+  "SAAS Integrations": [
+    {
+      "Count": 1,
+      "Name": "Dependabot",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Count": 2,
+      "Name": "GitHub Actions",
+      "RepoName": "tesla/m2e-core-tests"
+    },
+    {
+      "Count": 1,
+      "Name": "GitHub Actions",
+      "RepoName": "tesla/m2eclipse-buildhelper"
+    },
+    {
+      "Count": 1,
+      "Name": "GitHub Actions",
+      "RepoName": "tesla/m2eclipse-modello"
+    },
+    {
+      "Count": 1,
+      "Name": "Dependabot",
+      "RepoName": "tesla/m2eclipse-webby"
+    },
+    {
+      "Count": 1,
+      "Name": "GitHub Actions",
+      "RepoName": "tesla/m2eclipse-webby"
+    }
+  ],
+  "Type Findings": [
+    {
+      "RepoName": "tesla/book-tycho",
+      "Type": "File",
+      "count": 16
+    },
+    {
+      "RepoName": "tesla/book-tycho",
+      "Type": "Programming Language",
+      "count": 8
+    },
+    {
+      "RepoName": "tesla/book-tycho",
+      "Type": "Shell",
+      "count": 3
+    },
+    {
+      "RepoName": "tesla/book-tycho",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/feature-zip-plugin",
+      "Type": "File",
+      "count": 2
+    },
+    {
+      "RepoName": "tesla/feature-zip-plugin",
+      "Type": "Framework",
+      "count": 1
+    },
+    {
+      "RepoName": "tesla/feature-zip-plugin",
+      "Type": "Library",
+      "count": 1
+    },
+    {
+      "RepoName": "tesla/feature-zip-plugin",
+      "Type": "Programming Language",
+      "count": 2
+    },
+    {
+      "RepoName": "tesla/feature-zip-plugin",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/m2e-core-tests",
+      "Type": "File",
+      "count": 1456
+    },
+    {
+      "RepoName": "tesla/m2e-core-tests",
+      "Type": "Framework",
+      "count": 49
+    },
+    {
+      "RepoName": "tesla/m2e-core-tests",
+      "Type": "Library",
+      "count": 192
+    },
+    {
+      "RepoName": "tesla/m2e-core-tests",
+      "Type": "Programming Language",
+      "count": 1356
+    },
+    {
+      "RepoName": "tesla/m2e-core-tests",
+      "Type": "SAAS Integration",
+      "count": 3
+    },
+    {
+      "RepoName": "tesla/m2e-core-tests",
+      "Type": "Shell",
+      "count": 1
+    },
+    {
+      "RepoName": "tesla/m2e-core-tests",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/m2eclipse-ajdt",
+      "Type": "File",
+      "count": 72
+    },
+    {
+      "RepoName": "tesla/m2eclipse-ajdt",
+      "Type": "Framework",
+      "count": 4
+    },
+    {
+      "RepoName": "tesla/m2eclipse-ajdt",
+      "Type": "Library",
+      "count": 10
+    },
+    {
+      "RepoName": "tesla/m2eclipse-ajdt",
+      "Type": "Programming Language",
+      "count": 72
+    },
+    {
+      "RepoName": "tesla/m2eclipse-ajdt",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/m2eclipse-antlr",
+      "Type": "File",
+      "count": 224
+    },
+    {
+      "RepoName": "tesla/m2eclipse-antlr",
+      "Type": "Library",
+      "count": 2
+    },
+    {
+      "RepoName": "tesla/m2eclipse-antlr",
+      "Type": "Programming Language",
+      "count": 123
+    },
+    {
+      "RepoName": "tesla/m2eclipse-antlr",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/m2eclipse-buildhelper",
+      "Type": "File",
+      "count": 231
+    },
+    {
+      "RepoName": "tesla/m2eclipse-buildhelper",
+      "Type": "Framework",
+      "count": 1
+    },
+    {
+      "RepoName": "tesla/m2eclipse-buildhelper",
+      "Type": "Library",
+      "count": 1
+    },
+    {
+      "RepoName": "tesla/m2eclipse-buildhelper",
+      "Type": "Programming Language",
+      "count": 122
+    },
+    {
+      "RepoName": "tesla/m2eclipse-buildhelper",
+      "Type": "SAAS Integration",
+      "count": 1
+    },
+    {
+      "RepoName": "tesla/m2eclipse-buildhelper",
+      "Type": "Shell",
+      "count": 1
+    },
+    {
+      "RepoName": "tesla/m2eclipse-buildhelper",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/m2eclipse-cvs",
+      "Type": "File",
+      "count": 37
+    },
+    {
+      "RepoName": "tesla/m2eclipse-cvs",
+      "Type": "Programming Language",
+      "count": 37
+    },
+    {
+      "RepoName": "tesla/m2eclipse-cvs",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/m2eclipse-egit",
+      "Type": "File",
+      "count": 60
+    },
+    {
+      "RepoName": "tesla/m2eclipse-egit",
+      "Type": "Programming Language",
+      "count": 39
+    },
+    {
+      "RepoName": "tesla/m2eclipse-egit",
+      "Type": "Shell",
+      "count": 1
+    },
+    {
+      "RepoName": "tesla/m2eclipse-egit",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/m2eclipse-hudson",
+      "Type": "File",
+      "count": 105
+    },
+    {
+      "RepoName": "tesla/m2eclipse-hudson",
+      "Type": "Library",
+      "count": 4
+    },
+    {
+      "RepoName": "tesla/m2eclipse-hudson",
+      "Type": "Programming Language",
+      "count": 68
+    },
+    {
+      "RepoName": "tesla/m2eclipse-hudson",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/m2eclipse-mavenarchiver",
+      "Type": "File",
+      "count": 839
+    },
+    {
+      "RepoName": "tesla/m2eclipse-mavenarchiver",
+      "Type": "Framework",
+      "count": 2
+    },
+    {
+      "RepoName": "tesla/m2eclipse-mavenarchiver",
+      "Type": "Library",
+      "count": 3
+    },
+    {
+      "RepoName": "tesla/m2eclipse-mavenarchiver",
+      "Type": "Programming Language",
+      "count": 548
+    },
+    {
+      "RepoName": "tesla/m2eclipse-mavenarchiver",
+      "Type": "Shell",
+      "count": 1
+    },
+    {
+      "RepoName": "tesla/m2eclipse-mavenarchiver",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/m2eclipse-modello",
+      "Type": "File",
+      "count": 217
+    },
+    {
+      "RepoName": "tesla/m2eclipse-modello",
+      "Type": "Programming Language",
+      "count": 112
+    },
+    {
+      "RepoName": "tesla/m2eclipse-modello",
+      "Type": "SAAS Integration",
+      "count": 1
+    },
+    {
+      "RepoName": "tesla/m2eclipse-modello",
+      "Type": "Shell",
+      "count": 1
+    },
+    {
+      "RepoName": "tesla/m2eclipse-modello",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/m2eclipse-plexus",
+      "Type": "File",
+      "count": 207
+    },
+    {
+      "RepoName": "tesla/m2eclipse-plexus",
+      "Type": "Library",
+      "count": 15
+    },
+    {
+      "RepoName": "tesla/m2eclipse-plexus",
+      "Type": "Programming Language",
+      "count": 133
+    },
+    {
+      "RepoName": "tesla/m2eclipse-plexus",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/m2eclipse-sisu",
+      "Type": "File",
+      "count": 16
+    },
+    {
+      "RepoName": "tesla/m2eclipse-sisu",
+      "Type": "Programming Language",
+      "count": 15
+    },
+    {
+      "RepoName": "tesla/m2eclipse-sisu",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/m2eclipse-subclipse",
+      "Type": "File",
+      "count": 18
+    },
+    {
+      "RepoName": "tesla/m2eclipse-subclipse",
+      "Type": "Programming Language",
+      "count": 17
+    },
+    {
+      "RepoName": "tesla/m2eclipse-subclipse",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/m2eclipse-tests",
+      "Type": "File",
+      "count": 15
+    },
+    {
+      "RepoName": "tesla/m2eclipse-tests",
+      "Type": "Programming Language",
+      "count": 12
+    },
+    {
+      "RepoName": "tesla/m2eclipse-tests",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/m2eclipse-tycho",
+      "Type": "File",
+      "count": 521
+    },
+    {
+      "RepoName": "tesla/m2eclipse-tycho",
+      "Type": "Library",
+      "count": 3
+    },
+    {
+      "RepoName": "tesla/m2eclipse-tycho",
+      "Type": "Programming Language",
+      "count": 288
+    },
+    {
+      "RepoName": "tesla/m2eclipse-tycho",
+      "Type": "Shell",
+      "count": 2
+    },
+    {
+      "RepoName": "tesla/m2eclipse-tycho",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/m2eclipse-webby",
+      "Type": "File",
+      "count": 93
+    },
+    {
+      "RepoName": "tesla/m2eclipse-webby",
+      "Type": "Programming Language",
+      "count": 79
+    },
+    {
+      "RepoName": "tesla/m2eclipse-webby",
+      "Type": "SAAS Integration",
+      "count": 2
+    },
+    {
+      "RepoName": "tesla/m2eclipse-webby",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/site-m2eclipse",
+      "Type": "File",
+      "count": 8
+    },
+    {
+      "RepoName": "tesla/site-m2eclipse",
+      "Type": "Programming Language",
+      "count": 8
+    },
+    {
+      "RepoName": "tesla/site-m2eclipse",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/tesla-aether",
+      "Type": "File",
+      "count": 1826
+    },
+    {
+      "RepoName": "tesla/tesla-aether",
+      "Type": "Framework",
+      "count": 2
+    },
+    {
+      "RepoName": "tesla/tesla-aether",
+      "Type": "Library",
+      "count": 15
+    },
+    {
+      "RepoName": "tesla/tesla-aether",
+      "Type": "Programming Language",
+      "count": 1368
+    },
+    {
+      "RepoName": "tesla/tesla-aether",
+      "Type": "git_metric",
+      "count": 13
+    },
+    {
+      "RepoName": "tesla/tesla-ide",
+      "Type": "File",
+      "count": 55
+    },
+    {
+      "RepoName": "tesla/tesla-ide",
+      "Type": "Programming Language",
+      "count": 41
+    },
+    {
+      "RepoName": "tesla/tesla-ide",
+      "Type": "git_metric",
+      "count": 13
+    }
+  ]
+}

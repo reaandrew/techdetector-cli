@@ -79,3 +79,4 @@ build
 *.log
 *.db*
 response.json
+techdetector-cli

@@ -6,6 +6,7 @@ import (
 	"github.com/reaandrew/techdetector/postscanners"
 	"github.com/reaandrew/techdetector/processors"
 	"github.com/reaandrew/techdetector/reporters"
+	"github.com/reaandrew/techdetector/reportstorage"
 	"github.com/reaandrew/techdetector/repositories"
 	"github.com/reaandrew/techdetector/scanners"
 	"github.com/reaandrew/techdetector/tools"
@@ -29,6 +30,7 @@ type Cli struct {
 	gitlabToken   string
 	gitlabBaseURL string
 	noCache       bool
+	outputDir     string
 }
 
 // Execute sets up and runs the root command
@@ -60,7 +62,8 @@ func (cli *Cli) createScanCommand() *cobra.Command {
 	scanCmd.PersistentFlags().StringVar(&cli.queriesPath, "queries-path", "", "Queries path (YAML file)")
 	scanCmd.PersistentFlags().BoolVar(&cli.dumpSchema, "dump-schema", false, "Dump SQLite schema to a text file")
 	scanCmd.PersistentFlags().BoolVar(&cli.noCache, "no-cache", false, "Fetch projects again")
-	//scanCmd.PersistentFlags().StringVar(&cli.prefix, "prefix", "techdetector", "A prefix for the output artifacts")
+	scanCmd.PersistentFlags().StringVar(&cli.prefix, "prefix", "techdetector", "A prefix for the output artifacts")
+	scanCmd.PersistentFlags().StringVar(&cli.prefix, "output-dir", "./", "Output directory for the artifacts")
 	scanCmd.PersistentFlags().StringVar(&cli.cutoff, "date-cutoff", "", "A date cutoff (e.g. 2021-01-01) to process git repos in")
 
 	if err := scanCmd.MarkPersistentFlagRequired("queries-path"); err != nil {
@@ -88,7 +91,11 @@ func (cli *Cli) createScanCommand() *cobra.Command {
 			dbFile := cli.prefix + "_findings.db"
 			utils.InitializeSQLiteDB(dbFile)
 
-			reporter, err := cli.createReporter(cli.reportFormat, queries, dbFile)
+			storage, err := reportstorage.CreateFileReportStorage(cli.prefix, cli.outputDir, cli.reportFormat)
+			if err != nil {
+				log.Fatal(err)
+			}
+			reporter, err := cli.createReporter(cli.reportFormat, queries, dbFile, storage)
 			if err != nil {
 				log.Fatal(err)
 			}
@@ -142,7 +149,11 @@ func (cli *Cli) createScanCommand() *cobra.Command {
 
 			dbFile := cli.prefix + "_findings.db"
 
-			reporter, err := cli.createReporter(cli.reportFormat, queries, dbFile)
+			storage, err := reportstorage.CreateFileReportStorage(cli.prefix, cli.outputDir, cli.reportFormat)
+			if err != nil {
+				log.Fatal(err)
+			}
+			reporter, err := cli.createReporter(cli.reportFormat, queries, dbFile, storage)
 			if err != nil {
 				log.Fatal(err)
 			}
@@ -216,7 +227,11 @@ func (cli *Cli) createScanCommand() *cobra.Command {
 			// 1) Sanitize directory name for a DB filename
 			dbFile := cli.prefix + "_findings.db"
 
-			reporter, err := cli.createReporter(cli.reportFormat, queries, dbFile)
+			storage, err := reportstorage.CreateFileReportStorage(cli.prefix, cli.outputDir, cli.reportFormat)
+			if err != nil {
+				log.Fatal(err)
+			}
+			reporter, err := cli.createReporter(cli.reportFormat, queries, dbFile, storage)
 			if err != nil {
 				log.Fatal(err)
 			}
@@ -248,7 +263,12 @@ func (cli *Cli) createScanCommand() *cobra.Command {
 			if err != nil {
 				log.Fatal(err)
 			}
-			reporter, err := cli.createReporter(cli.reportFormat, queries, dbFile)
+
+			storage, err := reportstorage.CreateFileReportStorage(cli.prefix, cli.outputDir, cli.reportFormat)
+			if err != nil {
+				log.Fatal(err)
+			}
+			reporter, err := cli.createReporter(cli.reportFormat, queries, dbFile, storage)
 			if err != nil {
 				log.Fatal(err)
 			}
@@ -314,11 +334,10 @@ func (cli *Cli) loadSqlQueries(filename string) (core.SqlQueries, error) {
 	return sqlQueries, nil
 }
 
-func (cli *Cli) createReporter(reportFormat string, queries core.SqlQueries, dbFilename string) (core.Reporter, error) {
+func (cli *Cli) createReporter(reportFormat string, queries core.SqlQueries, dbFilename string, storage core.ReportStorage) (core.Reporter, error) {
 	if reportFormat == "xlsx" {
 		return reporters.XlsxReporter{
 			Queries:          queries,
-			DumpSchema:       cli.dumpSchema,
 			ArtifactPrefix:   cli.prefix,
 			SqliteDBFilename: dbFilename,
 		}, nil
@@ -326,8 +345,8 @@ func (cli *Cli) createReporter(reportFormat string, queries core.SqlQueries, dbF
 	if reportFormat == "json" {
 		return reporters.JsonReporter{
 			Queries:          queries,
-			ArtifactPrefix:   cli.prefix,
 			SqliteDBFilename: dbFilename,
+			ReportStorage:    storage,
 		}, nil
 	}
 	if reportFormat == "http" {
